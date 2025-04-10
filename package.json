@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "hyper-music-festival",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000h\u0000y\u0000p\u0000e\u0000r\u0000-\u0000m\u0000u\u0000s\u0000i\u0000c\u0000-\u0000f\u0000e\u0000s\u0000t\u0000i\u0000v\u0000a\u0000l\u0000\r\u0000 \u0000#\u0000 \u0000h\u0000y\u0000p\u0000e\u0000r\u0000-\u0000m\u0000u\u0000s\u0000i\u0000c\u0000-\u0000f\u0000e\u0000s\u0000t\u0000i\u0000v\u0000a\u0000l\u0000\r\u0000 \u0000",
+  "main": "HyperMusicFestival.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AP-Design07/hyper-music-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AP-Design07/hyper-music-festival/issues"
+  },
+  "homepage": "https://github.com/AP-Design07/hyper-music-festival#readme"
+}
